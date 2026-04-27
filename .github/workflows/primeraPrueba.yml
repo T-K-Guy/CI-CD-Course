@@ -11,7 +11,3 @@ jobs:
   steps:
     - name: Mostrar mensaje
       run: echo "Hola, este es mi primer mensaje"
-
-    - name: Finalizar action
-      run: echo "Se mostro el mensaje correctamente"
-      
