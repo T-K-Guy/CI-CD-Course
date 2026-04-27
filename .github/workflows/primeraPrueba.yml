@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
   steps:
-    - name: Mostrar mensaje
+    -name: Mostrar mensaje
       run: echo "Hola, este es mi primer mensaje"
